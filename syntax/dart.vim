@@ -105,7 +105,7 @@ highlight default link dartMultilineString String
 highlight default link dartRawMultilineString String
 highlight default link dartNumber          Number
 highlight default link dartStatement       Statement
-highlight default link dartOperator        Operator
+highlight default link dartOperator        dartStorageClass
 highlight default link dartComment         Comment
 highlight default link dartLineComment     Comment
 highlight default link dartLineDocComment  Comment
